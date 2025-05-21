@@ -4,8 +4,4 @@
 #### h4
 ##### h5
 ###### h6
-meaningfull
-
-*meaningfull*
-
-**meaningfull**
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
